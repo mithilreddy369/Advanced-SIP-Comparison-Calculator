@@ -4,6 +4,9 @@ A powerful, single-page web application for detailed analysis and comparison of 
 Built entirely with **vanilla HTML, CSS, and JavaScript**, this tool delivers a rich, interactive experience for financial planning — without relying on any external frameworks or libraries.
 
 ---
+<img width="1103" height="1080" alt="Screenshot 2025-07-27 at 21 16 56" src="https://github.com/user-attachments/assets/a30b5ec7-76f4-4e52-9755-1e2ea8d0e1e0" />
+<img width="1105" height="1094" alt="Screenshot 2025-07-27 at 21 17 16" src="https://github.com/user-attachments/assets/1978c39b-6c62-4ae3-b5ab-086cb9a961ca" />
+
 
 ## 🚀 Features
 
